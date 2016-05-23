@@ -1,18 +1,19 @@
-# Binary to decimal
+# Decimal to hexadecimal
 
 ## Description
-Write a program that converts a binary number **N** to its decimal representation.
+Write a program that converts a decimal number **N** to its hexadecimal representation.
 
 ## Input
-- On the only line you will receive a binary number - **N**
+- On the only line you will receive a decimal number - **N**
   - There will not be leading zeros
 
 ## Output
-- Print the decimal representation of **N** on a single line
+- Print the hexadecimal representation of **N** on a single line
   - There should not be leading zeros
+  - Use uppercase letters
 
 ## Constraints
-- 1 <= **N** <= 10<sup>18</sup> = 110111100000101101101011001110100111011001000000000000000000<sub>(2)</sub>
+- 1 <= **N** <= 10<sup>18</sup>
 - Time limit: **0.1s**
 - Memory limit: **16MB**
 
@@ -20,7 +21,7 @@ Write a program that converts a binary number **N** to its decimal representatio
 
 | Input | Output |
 |:-----:|:------:|
-| 10011 | 19     |
+| 19    | 13     |
 
 ## Submission
-- Submit your code [here](http://bgcoder.com/Contests/Compete/Index/318#1)
+- Submit your code [here](http://bgcoder.com/Contests/Compete/Index/318#2)

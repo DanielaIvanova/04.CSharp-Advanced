@@ -1,16 +1,30 @@
-Homework: Using Classes and Objects
-===================================
+# Leap year
 
-### [Submit homework in bgcoder](http://bgcoder.com/Contests/319/CSharp-Advanced-05-Using-Classes-and-Objects)
+## Description
+Write a program that reads a year from the console and checks whether it is a leap one.
 
-### Problem List
+_Hint:_ Use `System.DateTime`.
 
-1. [Leap year](./01. Leap year)
-1. [Random numbers](./02. Random numbers)
-1. [Day of week](./03. Day of week)
-1. [Triangle surface by side and altitude](./04. Triangle surface by side and altitude)
-1. [Triangle surface by three sides](./05. Triangle surface by three sides)
-1. [Triangle surface by two sides and an angle](./06. Triangle surface by two sides and an angle)
-1. [Workdays](./07. Workdays)
-1. [Sum integers](./08. Sum integers)
-1. [Arithmetical expressions](./09. Arithmetical expressions)
+## Input
+- On the only line you will receive a number - the year
+
+## Output
+- Print "Leap" or "Common" on a single line depending on the year
+
+## Constraints
+- Time limit: **0.1s**
+- Memory limit: **16MB**
+
+## Sample tests
+
+| Input | Output |
+|:------|:-------|
+| 2016  | Leap   |
+| 1996  | Leap   |
+| 1900  | Common |
+| 2000  | Leap   |
+|  681  | Common |
+| 3400  | Common |
+
+## Submission
+- Submit your code [here](http://bgcoder.com/Contests/Compete/Index/319#0)

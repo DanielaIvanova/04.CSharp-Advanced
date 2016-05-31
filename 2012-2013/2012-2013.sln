@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001.4Feb-KaspichanNumbers", "4Feb-Kaspichan Numbers\001.4Feb-KaspichanNumbers.csproj", "{7275B84C-9EE8-4F03-8377-7A80D0FBE6DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011.5Feb-DurankulakNumbers", "5Feb-DurankulakNumbers\011.5Feb-DurankulakNumbers.csproj", "{F1B10C5A-B875-4257-932B-80856101437A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7275B84C-9EE8-4F03-8377-7A80D0FBE6DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7275B84C-9EE8-4F03-8377-7A80D0FBE6DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7275B84C-9EE8-4F03-8377-7A80D0FBE6DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7275B84C-9EE8-4F03-8377-7A80D0FBE6DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1B10C5A-B875-4257-932B-80856101437A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1B10C5A-B875-4257-932B-80856101437A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1B10C5A-B875-4257-932B-80856101437A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1B10C5A-B875-4257-932B-80856101437A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

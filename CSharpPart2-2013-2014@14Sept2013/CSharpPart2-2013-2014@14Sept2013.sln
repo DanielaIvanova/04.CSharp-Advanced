@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011.MultiverseCommunication", "MultiverseCommunication\011.MultiverseCommunication.csproj", "{70CF469B-6DCB-4B76-8794-C13D691744E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "021.Zerg!!!", "Zerg!!!\021.Zerg!!!.csproj", "{3C98CA0C-FBA3-4C01-B5AD-985EE901ECBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70CF469B-6DCB-4B76-8794-C13D691744E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70CF469B-6DCB-4B76-8794-C13D691744E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70CF469B-6DCB-4B76-8794-C13D691744E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70CF469B-6DCB-4B76-8794-C13D691744E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C98CA0C-FBA3-4C01-B5AD-985EE901ECBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C98CA0C-FBA3-4C01-B5AD-985EE901ECBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C98CA0C-FBA3-4C01-B5AD-985EE901ECBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C98CA0C-FBA3-4C01-B5AD-985EE901ECBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
